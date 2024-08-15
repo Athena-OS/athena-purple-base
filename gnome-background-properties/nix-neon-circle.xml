@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Nix Neon Circle</name>
+    <filename>/usr/share/backgrounds/athena/nix-neon-circle.jpg</filename>
+    <filename-dark>/usr/share/backgrounds/athena/nix-neon-circle.jpg</filename-dark>
+    <options>stretched</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#9D3FAE</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
